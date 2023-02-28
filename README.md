@@ -4,21 +4,14 @@
 <p>
     <img src="./assets/images/readme/discord.png" width="50px" height="50px"><br>
     <a href="https://discord.com/" target="_blank">Discord</a>
-    was used for team communication and huddles toke place on discord
-</p><hr>
-
-<h3>Font Awesome:</h3>
-<p>
-    <img src="./assets/images/readme/fontawesome.png" width="50px" height="50px"><br>
-    <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
-    was used for the media icons used in the footer.
+    was used for team communication and meetings between team members
 </p><hr>
 
 <h3>Google Fonts:</h3>
 <p>
     <img src="./assets/images/readme/googlefonts.svg" width="50px" height="50px"><br>
     <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
-    was used for all the text content on the site pages.
+    was used to meet the client's request on using <a href="https://fonts.google.com/specimen/Roboto" target="_blank">Roboto</a> for the text
 </p><hr>
 
 <h3>GitPod:</h3>
@@ -39,11 +32,6 @@
     Developer Tools was used for trouble shooting and trying new visual changes without it affect the current code already created.
 </p><hr>
 
-<h3>Google Maps:</h3>
-<p>
-    <img src="./assets/images/readme/googlemaps.png" width="50px" height="50px" role="img" viewBox="0 0 24 24"><br>
-    <a href="https://www.google.com/maps/" target="_blank">Google Maps</a> used to pinpoint the location of the club for further information
-</p><hr>
 
 <h3>Lighthouse:</h3>
 <p>
