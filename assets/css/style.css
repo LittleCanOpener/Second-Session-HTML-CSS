@@ -42,7 +42,7 @@ header {
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
-    font-family: 'Robota-Regular' sans-serif;
+    font-family: 'Robota-Regular', sans-serif;
     transition: all 0.3s linear;
 }
 
