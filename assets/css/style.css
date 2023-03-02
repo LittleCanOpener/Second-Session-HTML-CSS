@@ -88,7 +88,7 @@ header {
     background-color: #3882F6;
     color: #fff;
     height: 5vh;
-    width: 8vw;
+    padding: 5px 25px;
     border-radius: 8px;
     margin-top: 1%;
     transition: all 0.3ms linear;
@@ -311,4 +311,74 @@ textarea.contact-form-text {
 .contact-form-btn:hover {
     background: #2980b9;
 }
+
+/* Responsiveness */
+
+@media only screen and (max-width: 1241px) {
+
+    #hero {
+        padding-top: 50px;
+        flex-direction: column;
+        height: auto;
+    }
+    .hero_text{
+        padding-left: 0;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    .hero_image{
+        padding-right: 0;
+    }
+    .hero_image img{
+        width: 33vw;
+        height: 25vh;
+    }
+    .services_container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .services_container img{
+        height: 200px;
+        width: 200px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .services_content figcaption {
+        display: flex;
+        width: auto;
+        padding-top: 0.4em;
+        font-family: 'Robota-Regular',  sans-serif;
+        user-select: none;
+        margin-bottom: 15px;
+    }
+
+}
+
+@media only screen and (max-width: 630px) {
+    header {
+        background-color: #1F2937;  
+        display: flex;
+        flex-direction: column; 
+        justify-content: space-around;
+        user-select: none;
+    }
+    
+    .logo p {
+        font-family: 'Roboto-Regular', sans-serif;
+        font-size: 24px;
+        color: #F9FAF8;  
+        padding-top: 0.8em;
+    }
+    
+    .menu {
+        width: 200px;
+        display: flex;
+        flex-direction: row;
+        padding-top: 0.8em;
+        list-style: none;
+    }
+
+}
+
 
