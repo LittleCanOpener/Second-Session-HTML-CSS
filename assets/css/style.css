@@ -248,7 +248,8 @@ footer p {
     color: #fff;
     user-select: none;
 }
-/* Prince */
+
+/* Contact us */
 
 .contact-section {
     background: url() no-repeat center;
@@ -313,48 +314,6 @@ textarea.contact-form-text {
     background: #2980b9;
 }
 
-/* Responsiveness */
-
-@media only screen and (max-width: 1241px) {
-
-    #hero {
-        padding-top: 50px;
-        flex-direction: column;
-        height: auto;
-    }
-    .hero_text{
-        padding-left: 0;
-        margin-left: 150px;
-        margin-right: 150px;
-    }
-    .hero_image{
-        padding-right: 0;
-    }
-    .hero_image img{
-        width: 33vw;
-        height: 25vh;
-    }
-    .services_container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .services_container img{
-        height: 200px;
-        width: 200px;
-        border-radius: 10px;
-        cursor: pointer;
-    }
-    .services_content figcaption {
-        display: flex;
-        width: auto;
-        padding-top: 0.4em;
-        font-family: 'Robota-Regular',  sans-serif;
-        user-select: none;
-        margin-bottom: 15px;
-    }
-
-}
 /* Responsiveness */
 @media only screen and (max-width: 1241px) {
 
