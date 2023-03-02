@@ -1,5 +1,25 @@
-<h1>Technologies</h1>
+<h1>Deployment</h1>
+<ul>
+<h2>Using Github Pages</h2>
+<li>Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Milestone-Project-1" target="_blank">Repository</a>:</li>
+<li>Click the 'Settings' Tab.</li>
+<li>Scroll Down to the Git Hub Pages Heading.</li>
+<li>Select 'Master Branch' as the source.</li>
+<li>Click the Save button.</li>
+<li>Click on the link to go to the live deployed page.</li></ul>
+<hr>
+<ul><h2>Run Locally</h2>
+<li>Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Milestone-Project-1" target="_blank">Repository</a>:</li>
+<li>Click the Code drop down menu.</li>
+<li>Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.</li>
+<li>Open your developement editor of choice and open a terminal window in a directory of your choice.</li>
+<li>Use the 'git clone' command in terminal followed by the copied git URL.
+A clone of the project will be created locally on your machine.</li></ul>
+<h1>Color Scheme & Client Wireframes</h1>
+<img src="./assets/images/readme/colorscheme.jpg">
+<img src="./assets/images/readme/wireframe.png">
 
+<h1>Technologies</h1>
 <h3>Discord:</h3>
 <p>
     <img src="./assets/images/readme/discord.png" width="50px" height="50px"><br>
@@ -61,7 +81,6 @@
     HTML code ensures the proper formatting of text and images for Internet browsers. Without HTML, a browser would not know how to display text as elements or load images or other elements.
 </p><hr>
 
-
 <h3>CSS:</h3>
 <p>
     <img src="./assets/images/readme/css.png" width="50px" height="50px"><br>
@@ -71,3 +90,33 @@
 <p>
     CSS makes the front-end of a website shine and it creates a great user experience. Without CSS, websites would be less pleasing to the eye and likely much harder to navigate. In addition to layout and format, CSS is responsible for font color and more.
 </p>
+
+<h1>Testing</h1>
+<h3>Code Validators</h3>
+<ul>
+    <li>W3C <a href="https://validator.w3.org/nu/#textarea">Html Checker
+    </a></li>
+    <li>W3C <a href="https://jigsaw.w3.org/css-validator/#validate_by_input"
+    target="_blank">CSS Validator Results
+    </a></li>
+</ul>
+
+<h2>Lighthouse:</h2>
+<h3>And why It's important to run before deployment</h3>
+<p><strong>Performance : </strong>
+    refers to the speed in which web pages are downloaded and displayed on the user's web browser. Website performance optimization, or website optimization is the field of knowledge about increasing web performance
+</p>
+<p><strong>Accessibility : </strong>
+    means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the website.
+</p>
+<p><strong>Best Practices : </strong>
+    are related to how to carry out a task or configure something. Strict best practice guidelines may be set by a governing body or may be internal to an organization.
+</p>
+<p><strong>SEO : </strong> 
+    stands for 'Search Engine Optimization', which is the process of getting traffic from free, organic, editorial, or natural search results in search engines. It aims to improve your website's position in search results pages. Remember, the higher the website is listed, the more people will see it.
+</p>
+
+<h3>Desktop:</h3>
+<img src="#">
+<h3>Moblie:</h3>
+<img src="#">
