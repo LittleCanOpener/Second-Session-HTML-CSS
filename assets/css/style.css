@@ -405,6 +405,12 @@ div.text1 p {
         user-select: none;
         margin-bottom: 15px;
     }
+    div#slider { 
+        left: 10%;
+        width: 80%;
+        position: sticky;
+    }
+    
 
 }
 
