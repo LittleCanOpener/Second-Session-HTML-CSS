@@ -314,13 +314,69 @@ textarea.contact-form-text {
     background: #2980b9;
 }
 
+/* Juan Story Page */
+
+.ourstory h1 {
+    text-align: center;
+    color: #ddd;
+}
+
+@keyframes slidy {
+  0% { left: 0%; }
+  20% { left: 0%; }
+  25% { left: -100%; }
+  45% { left: -100%; }
+  50% { left: -200%; }
+  70% { left: -200%; }
+}
+
+div#slider { 
+    border-radius: 5%;
+    overflow: hidden;
+    width: 40%;
+    max-height: 500px;
+    position: relative;
+    left: 30%;
+    box-shadow: 0 0 10px 10px #E5E7EB;  
+}
+
+div#slider figure {
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    animation: 30s slidy infinite;
+}
+
+  div#slider figure img { 
+    width: 20%;
+    float: left;
+ 
+}
+
+
+div.text1 {
+    background-color: #E5E7EB;
+    justify-content: center;
+    display: flex;
+}
+
+div.text1 p {
+    width: 90%;
+    font-size: 20px;
+    font-family: 'Robota-Regular',  sans-serif;
+    text-align: center;
+}
+
+
 /* Responsiveness */
 @media only screen and (max-width: 1241px) {
 
-    #hero {
-        padding-top: 50px;
-        flex-direction: column;
-        height: auto;
+#hero {
+    padding-top: 50px;
+    flex-direction: column;
+    height: auto;
     }
     .hero_text{
         padding-left: 0;
@@ -381,54 +437,4 @@ textarea.contact-form-text {
     }
 
 }
-
-/* Juan Story Page */
-
-.ourstory h1 {
-    text-align: center;
-    color: #ddd;
-  }
-  
-  @keyframes slidy {
-  0% { left: 0%; }
-  20% { left: 0%; }
-  25% { left: -100%; }
-  45% { left: -100%; }
-  50% { left: -200%; }
-  70% { left: -200%; }
-  75% { left: -300%; }
-  95% { left: -300%; }
-  100% { left: -400%; }
-  }
-  
-  body { margin: 0; }
-  div#slider { overflow: hidden;
-    width: 40%;
-    position: relative;
-    left: 30%;
-    margin-top: 5%;
-  
-   }
-  div#slider figure img { width: 20%; float: left; }
-  div#slider figure {
-    position: relative;
-    width: 500%;
-    margin: 0;
-    left: 0;
-    text-align: left;
-    font-size: 0;
-    animation: 30s slidy infinite;
-  }
-  
-  .text1 {
-  
-      text-align: center;
-      border: 2px dashed #F9FAF8;
-      font-size: 18px;
-      background-color: #E5E7EB;
-      
-  
-  
-  }
-  
 
