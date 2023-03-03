@@ -333,10 +333,9 @@ textarea.contact-form-text {
 div#slider { 
     border-radius: 5%;
     overflow: hidden;
-    width: 40%;
-    max-height: 500px;
+    width: 30%;
     position: relative;
-    left: 30%;
+    left: 35%;
     box-shadow: 0 0 10px 10px #E5E7EB;  
 }
 
@@ -351,22 +350,19 @@ div#slider figure {
 
   div#slider figure img { 
     width: 20%;
+    height: 100%;
     float: left;
- 
 }
 
-
 div.text1 {
-    background-color: #E5E7EB;
-    justify-content: center;
-    display: flex;
+    padding: 15px;
+    margin: 3em;
+    text-align: center;
 }
 
 div.text1 p {
-    width: 90%;
     font-size: 20px;
     font-family: 'Robota-Regular',  sans-serif;
-    text-align: center;
 }
 
 
