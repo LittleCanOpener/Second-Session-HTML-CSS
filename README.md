@@ -1,3 +1,4 @@
+<img src="./assets/images/readme/responsive.png">
 <h1>Deployment</h1>
 <ul>
 <h2>Using Github Pages</h2>
@@ -117,6 +118,6 @@ A clone of the project will be created locally on your machine.</li></ul>
 </p>
 
 <h3>Desktop:</h3>
-<img src="#">
+<img src="./assets/images/readme/desktop.png">
 <h3>Moblie:</h3>
-<img src="#">
+<img src="./assets/images/readme/mobile.png">
