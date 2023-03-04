@@ -151,26 +151,15 @@
 <h1>Special Thanks To Contributors</h1>
 <table>
     <tr><th>
-        <a href="https://github.com/Xoshbaxt" target="_blank">
             <h3>Xoshbaxt</h3>
-        </a>
-    </th>
-    </tr>
+    </th></tr>
     <tr><th>
-        <a href="https://github.com/Princeskydon8" target="_blank">
             <h3>Prince Sky Sithole<h3>
-        </a>
-    </th>
-    </tr>
+    </th></tr>
     <tr><th>
-        <a href="https://github.com/Fabulozou" target="_blank">
             <h3>Juan Vazquez<h3>
-        </a>
-    </th>
-    </tr>
-    <th>
-        <a href="https://github.com/Shubhayu-Bhowmick" target="_blank">
+    </th></tr>
+    <tr><th>
             <h3>Shubhayu Bhowmick<h3>
-        </a>
     </th></tr>
 </table>
