@@ -1,21 +1,47 @@
 <img src="./assets/images/readme/responsive.png">
+
 <h1>Deployment</h1>
 <ul>
-<h2>Using Github Pages</h2>
-<li>Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Milestone-Project-1" target="_blank">Repository</a>:</li>
-<li>Click the 'Settings' Tab.</li>
-<li>Scroll Down to the Git Hub Pages Heading.</li>
-<li>Select 'Master Branch' as the source.</li>
-<li>Click the Save button.</li>
-<li>Click on the link to go to the live deployed page.</li></ul>
+    <h2>Using Github Pages</h2>
+    <li>
+        Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Milestone-Project-1" target="_blank">Repository</a>:
+    </li>
+    <li>
+        Click the 'Settings' Tab.
+    </li>
+    <li>
+        Scroll Down to the Git Hub Pages Heading.
+    </li>
+    <li>
+        Select 'Master Branch' as the source.
+    </li>
+    <li>
+        Click the Save button.
+    </li>
+    <li>
+        Click on the link to go to the live deployed page.
+    </li>
+</ul>
 <hr>
-<ul><h2>Run Locally</h2>
-<li>Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Milestone-Project-1" target="_blank">Repository</a>:</li>
-<li>Click the Code drop down menu.</li>
-<li>Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.</li>
-<li>Open your developement editor of choice and open a terminal window in a directory of your choice.</li>
-<li>Use the 'git clone' command in terminal followed by the copied git URL.
-A clone of the project will be created locally on your machine.</li></ul>
+<ul>
+    <h2>Run Locally</h2>
+    <li>
+        Navigate to the GitHub <a href="https://github.com/LittleCanOpener/Milestone-Project-1" target="_blank">Repository</a>:
+    </li>
+    <li>
+        Click the Code drop down menu.
+    </li>
+    <li>
+        Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+    </li>
+    <li>
+        Open your developement editor of choice and open a terminal window in a directory of your choice.
+    </li>
+    <li>
+        Use the 'git clone' command in terminal followed by the copied git URL.
+        A clone of the project will be created locally on your machine.
+    </li>
+</ul>
 <h1>Color Scheme & Client Wireframes</h1>
 <img src="./assets/images/readme/colorscheme.jpg">
 <img src="./assets/images/readme/wireframe.png">
