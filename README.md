@@ -1,5 +1,5 @@
+<h1>Brainnest Second Lecture - CSS & HTML</h1>
 <img src="./assets/images/readme/responsive.png">
-
 <h1>Deployment</h1>
 <ul>
     <h2>Using Github Pages</h2>
@@ -147,3 +147,30 @@
 <img src="./assets/images/readme/desktop.png">
 <h3>Moblie:</h3>
 <img src="./assets/images/readme/mobile.png">
+
+<h1>Special Thanks To Contributors</h1>
+<table>
+    <tr><th>
+        <a href="https://github.com/Xoshbaxt" target="_blank">
+            <h3>Xoshbaxt</h3>
+        </a>
+    </th>
+    </tr>
+    <tr><th>
+        <a href="https://github.com/Princeskydon8" target="_blank">
+            <h3>Prince Sky Sithole<h3>
+        </a>
+    </th>
+    </tr>
+    <tr><th>
+        <a href="https://github.com/Fabulozou" target="_blank">
+            <h3>Juan Vazquez<h3>
+        </a>
+    </th>
+    </tr>
+    <th>
+        <a href="https://github.com/Shubhayu-Bhowmick" target="_blank">
+            <h3>Shubhayu Bhowmick<h3>
+        </a>
+    </th></tr>
+</table>
