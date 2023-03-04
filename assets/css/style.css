@@ -47,6 +47,7 @@ header {
 }
 
 .active {
+    pointer-events: none;
     color: #cef1ff !important;
 }
 
