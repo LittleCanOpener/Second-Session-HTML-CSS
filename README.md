@@ -1,6 +1,7 @@
 <h1>Brainnest Second Lecture - CSS & HTML</h1>
 <img src="./assets/images/readme/responsive.png">
 <h1>Deployment</h1>
+
 <ul>
     <h2>Using Github Pages</h2>
     <li>
@@ -21,6 +22,10 @@
     <li>
         Click on the link to go to the live deployed page.
     </li>
+    <li><h2>
+        <a href="https://littlecanopener.github.io/operation-branko/">
+        Preview</a>
+</h2></li>
 </ul>
 <hr>
 <ul>
@@ -63,7 +68,8 @@
 
 <h3>GitPod:</h3>
 <p>
-    <img src="./assets/images/readme/gitpod.svg" width="50px" height="50px"><br><a href="https://www.gitpod.io/" target="_blank">GitPod</a>
+    <img src="./assets/images/readme/gitpod.svg" width="50px" height="50px"><br>
+    <a href="https://www.gitpod.io/" target="_blank">GitPod</a>
     was used to write up the code for the project and using the GitPod terminal to commit everything to GitHub.
 </p><hr>
 
