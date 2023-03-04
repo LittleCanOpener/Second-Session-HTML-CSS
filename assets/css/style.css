@@ -451,6 +451,9 @@ div.text1 p {
         padding-top: 0.8em;
         list-style: none;
     }
+    .hero_text button {
+       width: 54px;
+    }
 
 }
 
